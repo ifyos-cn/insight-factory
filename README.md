@@ -21,6 +21,12 @@ IFY is a Personal Intelligence OS Infrastructure — built around memory, protoc
 
 ---
 
+### 02 · Order Before Capability
+
+*You keep upgrading your apps. The real gap is in the system underneath.*
+
+[English](posts/02-order-before-capability.md) · [中文](posts/02-order-before-capability-zh.md)
+
 ## Connect
 
 [ifyos.com](https://www.ifyos.com) · GitHub: [@ifyos-cn](https://github.com/ifyos-cn)
