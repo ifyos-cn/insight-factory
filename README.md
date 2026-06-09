@@ -27,6 +27,16 @@ IFY is a Personal Intelligence OS Infrastructure — built around memory, protoc
 
 [English](posts/02-order-before-capability.md) · [中文](posts/02-order-before-capability-zh.md)
 
+---
+
+**03 · A Memory You Can't Govern Isn't an Asset**
+
+*Forgetting everything is a problem. So is remembering all of it.*
+
+[英文](03-a-memory-you-cant-govern.md) · [中文](03-a-memory-you-cant-govern-zh.md)
+
+---
+
 ## Connect
 
 [ifyos.com](https://www.ifyos.com) · GitHub: [@ifyos-cn](https://github.com/ifyos-cn)
