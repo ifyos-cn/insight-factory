@@ -1,0 +1,73 @@
+# Forgetting Is the Skill
+
+### Everyone wants AI to remember more. What makes a system reliable is making it forget more.
+
+Getting AI to remember looks like an addition problem: more is better. I hit the wall twice before I understood it's a subtraction problem.
+
+---
+
+**I used to think memory was a capacity problem.**
+
+Back then I bet everything on the context window — two million tokens, a whole book dropped in with room to spare. If it fit, surely it would stick.
+
+It fit. But the longer we talked, the more confused it got — things I'd said got dropped a few turns later; a judgment I'd already overturned got picked back up as a premise. Two million tokens, and it still went blank right in front of me.
+
+Fitting it in is not the same as pulling the right thing back out. But my first instinct was — the container's still too small.
+
+---
+
+**So I switched to a bigger container. All it did was move the mess somewhere else.**
+
+Instead of a single conversation's window, I parked the background in a fixed project knowledge base — Gemini's Gem is one of these; Claude's Projects, GPT's projects, same idea. The payoff was immediate: open a new window, no need to re-explain who I am or what I'm working on. For someone just starting to build memory, it's about the most comfortable first version there is.
+
+The comfort didn't last. The knowledge base started to swell — more precisely, it started to rot. A task here, a scrap there, never going back to clean. A conclusion I'd overturned months ago still sitting in it quietly, taken as a current premise.
+
+The worst part wasn't that it forgot things. It was that it took something expired and used it, in all seriousness, to help me judge the present.
+
+This is the liability from the last post — one I fed into existence myself, one entry at a time. Nobody at the door deciding what gets in and what gets turned away. Everything gets in.
+
+---
+
+**Two failures, one root: the size of the container was never the problem.**
+
+Window too small, move to a knowledge base; base too messy, reach for some more elaborate system — I kept swapping in bigger containers, and never once asked whether anyone was deciding what deserved to be inside. A bigger container only makes it worse. Give a system that never filters more room, and you've just handed it a bigger landfill.
+
+That's where I finally turned the question around:
+
+> How good a memory is has nothing to do with how much it holds, and everything to do with how much it's willing to throw away.
+
+---
+
+**In the end I kept only two moves: keep the entrance strict, keep the exit ruthless.**
+
+A good memory system has a funnel at the entrance, not a warehouse. A warehouse wants to store — whatever shows up, it keeps. A funnel wants to block — most of what arrives was never meant to get through.
+
+Before anything goes in, it clears one test: three months from now, does this still deserve to be a basis for my judgment?
+
+> Most information is worth using once, not worth remembering.
+
+One-off conclusions, throwaway data, an idea that felt brilliant at the time — what earns a place in long-term memory is the kind you reach for again and again, the kind whose mistakes ripple down the chain. Strict at the entrance, far less trouble later.
+
+---
+
+**Blocking at the door isn't enough — what's already inside expires too.**
+
+Memory isn't like other assets: it doesn't hold its value just by sitting still. A conclusion gets overturned by later facts; a judgment gets retired by a new situation. They won't raise a hand and say "I'm expired" — they just sit there wearing the face of something that still counts, and go on shaping the next judgment you make.
+
+So half the work of governing memory goes into deleting. Deleting isn't loss. The quality of a system's memory isn't measured by how much it has piled up, but by whether it dares to go back, on a schedule, and cut out by hand what no longer holds. The cleaner what's left, the firmer the ground under every judgment.
+
+And this is the hardest part: you have to be willing to delete what you worked to collect.
+
+---
+
+Looking back at those two detours, what changed wasn't the tools I used. It was how I understood memory — from "how do I get it to remember more" to "how do I get it to keep only what's right."
+
+> Remembering is not the skill. A machine remembers better than anyone. Forgetting is.
+
+That's the first half of governing memory: control the entrance, clear out the expired. The second half is what's left — how it gets pulled out at the right moment, instead of dumped in all at once.
+
+---
+
+*This is the fourth post — the entrance and the exit of memory. Next: retrieval, which task gets to pull which memory.*
+
+[← Insight Factory](../README.md) · [中文](04-forgetting-is-the-skill-zh.md)
