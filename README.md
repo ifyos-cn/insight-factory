@@ -37,6 +37,14 @@ IFY is a Personal Intelligence OS Infrastructure — built around memory, protoc
 
 ---
 
+---
+
+**04 · Forgetting Is the Skill**
+
+*Everyone wants AI to remember more. What makes a system reliable is making it forget more.*
+
+[英文](04-forgetting-is-the-skill.md) · [中文](04-forgetting-is-the-skill-zh.md)
+
 ## Connect
 
 [ifyos.com](https://www.ifyos.com) · GitHub: [@ifyos-cn](https://github.com/ifyos-cn)
